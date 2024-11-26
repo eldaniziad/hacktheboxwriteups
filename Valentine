@@ -1,4 +1,4 @@
-``` 
+```
 ┌─[us-dedivip-1]─[10.10.14.60]─[bobkazamakis@htb-afwdusbjpp]─[~]
 └──╼ [★]$ sudo nmap -sCV 10.129.249.67
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-11-25 12:43 CST
@@ -21,5 +21,5 @@ PORT    STATE SERVICE  VERSION
 | Not valid before: 2018-02-06T00:45:25
 |_Not valid after:  2019-02-06T00:45:25
 |_http-server-header: Apache/2.2.22 (Ubuntu)
-Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel 
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
